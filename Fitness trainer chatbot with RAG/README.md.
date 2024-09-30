@@ -1,0 +1,2 @@
+A fitness trainer chatbot that is finetuned(uses llama 2 from Meta) first then uses Retrieval Augmented Generation(RAG) to make its response better.
+Datasets and models are from huggingface.
